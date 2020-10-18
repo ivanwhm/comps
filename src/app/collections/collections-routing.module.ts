@@ -1,10 +1,11 @@
-import { CollectionsHomeComponent } from './collections-home/collections-home.component';
 import { NgModule } from '@angular/core';
-import { Routes, RouterModule } from '@angular/router';
+import { RouterModule, Routes } from '@angular/router';
+
+import { CollectionsHomeComponent } from './collections-home/collections-home.component';
 
 const routes: Routes = [
   {
-    path: 'collections',
+    path: '',
     component: CollectionsHomeComponent,
   },
 ];

@@ -13,6 +13,23 @@ const routes: Routes = [
       ),
   },
   {
+    path: 'collections',
+    loadChildren: () =>
+      import('./collections/collections.module').then(
+        (module) => module.CollectionsModule
+      ),
+  },
+  {
+    path: 'views',
+    loadChildren: () =>
+      import('./views/views.module').then((module) => module.ViewsModule),
+  },
+  {
+    path: 'mods',
+    loadChildren: () =>
+      import('./mods/mods.module').then((module) => module.ModsModule),
+  },
+  {
     path: '',
     component: HomeComponent,
   },
