@@ -1,6 +1,6 @@
 # Comps
 
-A smaller idea about how to create components using semantic-ui in Angular. This code is part of [The Modern Angular Bootcamp [2020]](https://www.udemy.com/course/the-modern-angular-bootcamp/) course available on [Udemy](https://www.udemy.com/course/the-modern-angular-bootcamp/)
+A smaller idea about how to create components using semantic-ui in Angular with modules and routing. This code is part of [The Modern Angular Bootcamp [2020]](https://www.udemy.com/course/the-modern-angular-bootcamp/) course available on [Udemy](https://www.udemy.com/course/the-modern-angular-bootcamp/)
 
 Made with &hearts; by Ivan Wilhelm.
 
