@@ -1,6 +1,10 @@
 # Comps
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+A smaller idea about how to create components using semantic-ui in Angular. This code is part of [The Modern Angular Bootcamp [2020]](https://www.udemy.com/course/the-modern-angular-bootcamp/) course available on [Udemy](https://www.udemy.com/course/the-modern-angular-bootcamp/)
+
+Made with &hearts; by Ivan Wilhelm.
+
+Coded using [Visual Studio Code](https://code.visualstudio.com/) from [Microsoft](https://www.microsoft.com)
 
 ## Development server
 
