@@ -1,8 +1,8 @@
-import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { NgModule } from '@angular/core';
 
-import { ViewsRoutingModule } from './views-routing.module';
 import { ViewsHomeComponent } from './views-home/views-home.component';
+import { ViewsRoutingModule } from './views-routing.module';
 
 @NgModule({
   declarations: [ViewsHomeComponent],
