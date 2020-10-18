@@ -18,7 +18,6 @@ import { ElementsModule } from './elements/elements.module';
     ModsModule,
     ViewsModule,
   ],
-  providers: [],
   bootstrap: [AppComponent],
 })
 export class AppModule {}
